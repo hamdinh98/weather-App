@@ -21,12 +21,14 @@ button {
     margin: 2em;
     background-color: #7c7c7c2b;
     border-radius: 40%;
+    color: white;
 }
 
 input {
     height: 4vh;
     border-radius: 20px;
     background-color: #7c7c7c2b;
+    color: white;
 }
 
 .weather {
